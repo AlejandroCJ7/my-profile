@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+}
+
+/* wasnt able to finish my project, and i sent the teacher a camvas message about how to import the screen shot to VSCode but didnt get a message back*/
+
+li {
+    display: inline-block;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+ #center{
+    text-align: center;
+}
+
+#navigations a:link{
+    text-decoration: none;
+    color: grey;
+    }
+
+#navigations a:hover{
+    text-decoration: underline;
+    color: white;
+}
